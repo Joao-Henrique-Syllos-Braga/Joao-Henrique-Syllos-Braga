@@ -13,7 +13,7 @@
     <img align="center" alt="PHP" src="![image](![image](https://github.com/user-attachments/assets/32d52374-af86-4a16-a2e0-13ae5146acaa)
 )
 ">
-</div>
+</div><br/>
 
 
 Gosto muito de programar e estou melhor a cada dia!
