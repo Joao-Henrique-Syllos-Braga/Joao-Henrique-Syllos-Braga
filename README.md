@@ -1,4 +1,4 @@
-### Olá! Eu sou o João Henrique 🖐️
+# Olá! Eu sou o João Henrique 🖐️
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Henrique-Syllos-Braga&show_icons=true&theme=dracula)
 
